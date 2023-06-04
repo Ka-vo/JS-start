@@ -1,0 +1,8 @@
+.traffic-light {
+  width: 300px;
+  height: 300px;
+  border: solid;
+  border: none;
+  border-radius: 50%;
+  background-color: black;
+}
